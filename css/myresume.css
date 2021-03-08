@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.subheading {
+    font-family: 'Noto Sans TC', sans-serif;
+=======
 body {
 font-family: 'Noto Sans TC', sans-serif;
 }
@@ -8,4 +20,5 @@ font-family: 'Noto Sans TC', sans-serif;
 
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
+>>>>>>> 4e9986009f2da0f4806028a70a7bccdaa05bf514
 }
