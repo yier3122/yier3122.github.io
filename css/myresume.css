@@ -15,3 +15,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	background-color: #6dd5e3!important;
 	background-image: url(../assets/img/always-grey.png);
 }
+
+.jumbotron il{
+    line-height: 1.5em;
+    list-style-type: circle;
+}
+
+.jumbotron ol>il:focus, .jumbotron ol>li:hover {
+	background-color: #66B3FF;
+}
