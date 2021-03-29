@@ -19,10 +19,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	background-image: url(../assets/img/always-grey.png);
 }
 
-.jumbotron ol{
+.jumbotron li{
     list-style-type: square;
 }
 
-.jumbotron ol>il:focus, .jumbotron ol>li:hover {
+.jumbotron il:focus, .jumbotron li:hover {
 	background-color: #66B3FF;
 }
