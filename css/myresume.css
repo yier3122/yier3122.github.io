@@ -21,6 +21,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     list-style-type: square;
 }
 
-.jumbotron il:focus, .jumbotron li:hover {
+.jumbotron ol>li:focus, .jumbotron ol>li:hover {
 	background-color: #66B3FF;
 }
