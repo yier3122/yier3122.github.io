@@ -1,6 +1,8 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
 	line-height: 1.8rem;
+	letter-spacing: 0.2em;
+
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -18,7 +20,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .jumbotron ol{
-    list-style-type: circle;
+    list-style-type: square;
 }
 
 .jumbotron ol>il:focus, .jumbotron ol>li:hover {
