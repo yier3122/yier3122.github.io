@@ -28,7 +28,8 @@ table {
 	width: 80%;
 }
 th{
-	background-color:#6dd5e3;
-	text-align: center;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
 }
 
