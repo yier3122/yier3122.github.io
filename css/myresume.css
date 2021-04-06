@@ -22,11 +22,10 @@ th, td {
   border-style:dashed;
   border-color:#FFAC55;
   padding:5px;
+  text-align: center;
 } 
 table {
 	width: 80%;
 }
 
-td {
-	text-align: center;
-}
+
