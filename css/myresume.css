@@ -31,10 +31,8 @@ th {
     background-color: #333;
     color: #fff;
 }
-row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+.row {
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 
