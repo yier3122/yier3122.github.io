@@ -1,5 +1,6 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
+	line-height: 1.8rem;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -12,6 +13,22 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 
 .bg-primary{
-	background-color: #008a83!important;
-	background-image: url(../assets/img/argyle.png);
+	background-color: #6dd5e3!important;
+	background-image: url(../assets/img/always-grey.png);
 }
+
+th, td { 
+  border-width: 1px;
+  border-style:dashed;
+  border-color:#FFAC55;
+  padding:5px;
+  text-align: center;
+} 
+table {
+	width: 80%;
+}
+th {
+    background-color: #333;
+    color: #fff;
+}
+
