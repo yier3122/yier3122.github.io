@@ -31,4 +31,9 @@ th {
     background-color: #333;
     color: #fff;
 }
-
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
